@@ -17,7 +17,6 @@ A collection of Java practice solutions for the LeetCode questions from my Java 
 - [Easy – 9 questions](Easy/README.md)
 - [Medium – 5 questions](Medium/README.md)
 - [Hard – 2 questions](Hard/README.md)
-- [Extra practice – Palindrome Number](Extra-Practice/PalindromeNumber.java)
 
 ## What is included?
 
