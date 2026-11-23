@@ -31,8 +31,6 @@ A collection of Java practice solutions for the LeetCode questions from my Java 
 
 Arrays, strings, loops, nested loops, two pointers, classes and objects, queues, sorting, and binary search.
 
-## Note
 
-The solutions use the standard LeetCode class format (`Solution` or the required design-problem class). Open and submit one Java file at a time on LeetCode. Runtime and memory results can vary between submissions and judge runs, so they are not listed as fixed performance claims.
 
 
