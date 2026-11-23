@@ -35,4 +35,4 @@ Arrays, strings, loops, nested loops, two pointers, classes and objects, queues,
 
 The solutions use the standard LeetCode class format (`Solution` or the required design-problem class). Open and submit one Java file at a time on LeetCode. Runtime and memory results can vary between submissions and judge runs, so they are not listed as fixed performance claims.
 
-The `Extra-Practice` folder contains a Palindrome Number solution that was already in the original repository. It is kept separate from the 16 questions in the assignment.
+
